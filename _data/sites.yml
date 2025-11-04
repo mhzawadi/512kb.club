@@ -3738,10 +3738,10 @@
   size: 8.9
   last_checked: 2023-02-07
 
-- domain: smalltictactoe.netlify.app
-  url: https://smalltictactoe.netlify.app/
-  size: 2.6
-  last_checked: 2025-10-16
+- domain: smalltictactoe.dpdns.org
+  url: https://smalltictactoe.dpdns.org/
+  size: 2.5
+  last_checked: 2025-10-30
 
 - domain: sno.ws
   url: https://sno.ws/
@@ -4388,6 +4388,11 @@
   size: 184
   last_checked: 2025-10-28
 
+- domain: www.horwood.biz
+  url: https://www.horwood.biz
+  size: 256
+  last_checked: 2025-10-04
+
 - domain: www.nmichaels.org
   url: https://www.nmichaels.org
   size: 6.62
@@ -4572,8 +4577,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-05-18
-
-- domain: www.horwood.biz
-  url: https://www.horwood.biz
-  size: 256
-  last_checked: 2025-10-04
